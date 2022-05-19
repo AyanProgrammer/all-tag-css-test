@@ -1,0 +1,14 @@
+body {
+    background: azure;
+    font-family: arial;
+}
+.head {
+    border: silver solid 1px;
+    text-align: center;
+}
+.link {
+    border: silver solid 1px;
+}
+a {
+    color: purple;
+}
